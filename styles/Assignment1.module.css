@@ -1,0 +1,30 @@
+.welcomeText {
+  font-size: 30px;
+  display: inline-flex;
+  background-color: #adfcff;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.navagation-column {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+
+  outline: 2px solid #000000;
+  background-color: #F0F8FF;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.form-column {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+
+  outline: 2px solid #000000;
+  padding: 15px;
+  border-radius: 5px;
+}
